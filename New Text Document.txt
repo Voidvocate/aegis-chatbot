@@ -1,0 +1,31 @@
+# 🚫 Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# 🚫 Env & Secrets
+.env
+.env.*
+
+# 🚫 Virtual Envs
+venv/
+env/
+.venv/
+
+# 🚫 IDEs
+.vscode/
+.idea/
+
+# 🚫 System Files
+.DS_Store
+Thumbs.db
+
+# 🚫 Build Artifacts
+*.log
+*.tmp
+*.bak
+*.swp
+*.zip
+dist/
+build/
